@@ -44,4 +44,9 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("black-background");
   });
+
+  $(".box").click(function() {
+    $(".box").toggleClass("box-h");
+  });
+
 });
