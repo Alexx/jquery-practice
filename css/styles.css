@@ -11,11 +11,32 @@
   text-decoration: underline;
 }
 
-/* .clickable-paragraph {
+.clickable-paragraph {
   cursor: progress;
   color: black;
 }
 
 .clickable-paragraph:hover {
   text-decoration: underline;
-} */
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.btn-darkMode {
+  background-color: grey;
+}
